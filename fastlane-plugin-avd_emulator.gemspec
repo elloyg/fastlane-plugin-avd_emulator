@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'guillaume.elloy@gmail.com'
 
   spec.summary       = 'This plugin is listing available android avd emulators, allowing you to start the selected one.'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-avd_emulator"
+  spec.homepage      = "https://github.com/elloyg/fastlane-plugin-avd_emulator"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
